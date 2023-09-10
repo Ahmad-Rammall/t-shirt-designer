@@ -57,7 +57,7 @@ function Customizer() {
 
       alert("Billing hard limit has been reached")
 
-      // const response = await fetch("http://localhost:8080/api/v1/dalle", {
+      // const response = await fetch("https://design-shirts-project.onrender.com/api/v1/dalle", {
       //   method: "POST",
       //   headers: {
       //     "Content-Type": "application/json",
